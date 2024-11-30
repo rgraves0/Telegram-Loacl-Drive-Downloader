@@ -1,4 +1,4 @@
-# Telegram-Loacl-Drive-Downloader
+# Telegram-Local-Drive-Downloader
 
 ## Install Telethon
 - pip install telethon
